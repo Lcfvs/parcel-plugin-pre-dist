@@ -1,6 +1,6 @@
 {
   "name": "parcel-plugin-pre-dist",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A parcel plugin to distinct the pre-dist (for parcel HMR) and a clean dist (for the prod)",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,16 @@
     "htmlize": "^1.0.0",
     "parcel-bundler": "^1.11.0",
     "rimraf": "^2.6.3"
-  }
+  },
+  "keywords": [
+    "parcel",
+    "plugin",
+    "predist"
+  ],
+  "author": "lcf.vs <michael.rouges@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lcfvs/parcel-plugin-pre-dist/issues"
+  },
+  "homepage": "https://github.com/Lcfvs/parcel-plugin-pre-dist#readme"
 }
