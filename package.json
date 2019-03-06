@@ -1,0 +1,15 @@
+{
+  "name": "@lcf.vs/parcel-plugin-pre-dist",
+  "version": "1.0.0",
+  "description": "A parcel plugin to distinct the pre-dist (for parcel HMR) and a clean dist (for the prod)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "htmlize": "^1.0.0",
+    "parcel-bundler": "^1.11.0",
+    "rimraf": "^2.6.3"
+  }
+}
