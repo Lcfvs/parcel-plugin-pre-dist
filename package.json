@@ -1,5 +1,5 @@
 {
-  "name": "@lcf.vs/parcel-plugin-pre-dist",
+  "name": "parcel-plugin-pre-dist",
   "version": "1.0.0",
   "description": "A parcel plugin to distinct the pre-dist (for parcel HMR) and a clean dist (for the prod)",
   "main": "index.js",
